@@ -54,7 +54,7 @@
 
 ## 4. 설치 및 사용 방법
 > 1. C언어 개발 환경 설치 (Clion, Visual Studio, Dev 중 하나 선택)
-> 2. Git 클론: `git clone <repository-url>`
+> 2. Git 클론: `git clone https://github.com/2024-PNU-SW-StudyGroup/Group-14.git
 > 3. 학습 자료 및 문제 풀이 확인 후, 직접 실행해보세요.
 
 ## 5. 소개 및 시연 영상
