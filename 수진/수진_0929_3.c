@@ -7,16 +7,16 @@ int main(void)
 	int lst[100];
 	int lst2[100];
 
-	scanf_s("%d", &M);
+	scanf("%d", &M);
 	for (i = 0; i < M; i++) {
 		//int lst[100];
-		scanf_s("%d", &lst[i]);
+		scanf("%d", &lst[i]);
 	}
 
-	scanf_s("%d", &N);
+	scanf("%d", &N);
 	for (i = 0; i < N; i++) {
 		//int lst2[100];
-		scanf_s("%d", &lst2[i]);
+		scanf("%d", &lst2[i]);
 	}
 
 	for (i = 0; i < N; i++) {
