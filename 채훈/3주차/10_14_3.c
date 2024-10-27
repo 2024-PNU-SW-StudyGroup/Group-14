@@ -8,5 +8,5 @@ int main(void)
 		num = num * 10 + str[i] - '0';
 	}
 	printf("[%s] is %d\n", str, num);
-	return 0;
+	return 0;a
 }
