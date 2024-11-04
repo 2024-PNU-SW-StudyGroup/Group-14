@@ -1,7 +1,7 @@
 // 4 입력된 문자(아스키코드)를 16진수로 변환하고, 10진수로 출력하라  
 #include <stdio.h>
 
-int hexStringToDecimal(char input[]) {  // 포인터 대신 배열 사용
+int hexStringToDecimal(char input[]) {
     int result = 0;
     int i = 0;
 
